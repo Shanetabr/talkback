@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>Talkback</string>
+	<key>CFBundleDisplayName</key>
+	<string>Talkback</string>
+	<key>CFBundleIdentifier</key>
+	<string>local.talkback.app</string>
+	<key>CFBundleExecutable</key>
+	<string>Talkback</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>26.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Talkback listens to the input you choose and writes down what is said.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Talkback turns speech into text on this Mac. Nothing is sent anywhere.</string>
+</dict>
+</plist>
