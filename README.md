@@ -1,5 +1,9 @@
 # Talkback
 
+> This was the first prototype. It grew into
+> [LiveCue](https://github.com/Shanetabr/LiveCue), which handles several channels
+> at once and turns spoken keywords into show-control cues.
+
 A small macOS app that turns one audio input channel into a live,
 on-device speech-to-text transcript.
 
